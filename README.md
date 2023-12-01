@@ -13,7 +13,7 @@ Award Winning Project At Azure A.I Hackathon with popular choice.
 2. Pradhyuman Arora
 3. Kartik Mehta 
 4. Manasvi Singh
-5. Tanya Rajhans
+5. Tanya Raghuvanshi
 
 ### This Idea was born here : https://devpost.com/software/locust-build on August 2020
 ## What does this project do? 🤔
