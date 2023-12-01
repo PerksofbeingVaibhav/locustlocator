@@ -1,5 +1,5 @@
 
-<p align="center"><img width="350px" src="public/assetss/llamlogo.png" />
+<p align="center"><img width="350px" src="public/assetss/hack.png" />
 </p>
 <h1 align="center">L.L.A.M : Microsoft AI hackathon</h1>
 =======================
