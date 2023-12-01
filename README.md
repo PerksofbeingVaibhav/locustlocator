@@ -1,6 +1,5 @@
 
-<p align="center"><img width="350px" src="[public/assetss/llamlogo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadiltouati_microsoft-azure-openai-hackathon-was-issued-activity-7113645221367738368-lY3e%3Ftrk%3Dpublic_profile_like_view&psig=AOvVaw1kNiMxoICl_wW_lJNOxCfV&ust=1701515933024000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCICPlPmO7oIDFQAAAAAdAAAAABAE)" />
-</p>
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fadiltouati_microsoft-azure-openai-hackathon-was-issued-activity-7113645221367738368-lY3e%3Ftrk%3Dpublic_profile_like_view&psig=AOvVaw1kNiMxoICl_wW_lJNOxCfV&ust=1701515933024000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCICPlPmO7oIDFQAAAAAdAAAAABAE)
 
 L.L.A.M 
 =======================
