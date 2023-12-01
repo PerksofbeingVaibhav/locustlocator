@@ -8,12 +8,8 @@
 
 **Web App**: <a target="_blank" href="https://locustlocator2.vercel.app">https://locustlocator2.vercel.app 🔗</a>
 
-Award Winning Project At Azure A.I Hackathon with popular choice.
-1. Vaibhav Chaudhary (Team Leader)
-2. Pradhyuman Arora
-3. Kartik Mehta 
-4. Manasvi Singh
-5. Tanya Raghuvanshi
+<h1 align="center">Award Winning Project At Azure A.I Hackathon with popular choice.</h1>
+
 
 ### This Idea was born here : https://devpost.com/software/locust-build on August 2020
 ## What does this project do? 🤔
@@ -106,7 +102,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/Jappan07/LLAM
+https://github.com/PerksofbeingVaibhav/locustlocator.git
 
 # Change directory
 cd LLAM
