@@ -9,6 +9,13 @@ L.L.A.M - Locust Location & Apprehension Module[ Version 2]
 
 **Web App**: <a target="_blank" href="https://locustlocator2.vercel.app">https://locustlocator2.vercel.app 🔗</a>
 
+Award Winning Project At Azure A.I Hackathon with popular choice.
+1. Vaibhav Chaudhary (Team Leader)
+2. Pradhyuman Arora
+3. Kartik Mehta 
+4. Manasvi Singh
+5. Tanya Rajhans
+
 ### This Idea was born here : https://devpost.com/software/locust-build on August 2020
 ## What does this project do? 🤔
 
@@ -161,4 +168,4 @@ As of April 2020, efforts to curb the locusts are being hampered by ongoing rule
 Being lucky enough to be able to use technology amidst the comfort of our living conditions, we were discussing the havoc that this year had granted upon people, starting with Australian bushfires to COVID-19. And we aspired to do something, to make the world a little better place, than what it was. We knew that we couldn’t be frontline warriors of Coronavirus along with doctors and other crew, since none of us are related with a medical background. But we had the belief that using our mastery in the fields of Data Science, Database Management, App Development; to name a few, we could at least try to do something to give back to society, and thus was born. Locust locator. So, while browsing for things we could do, we fumbled upon this idea and saw the wonderful initiative that  Microsoft and the African Literacy Project had taken to organize this Hack for Africa global event and move forward to contribute to society.
 
 
-Copyright (c) 2021-3010 Hacker House
+
