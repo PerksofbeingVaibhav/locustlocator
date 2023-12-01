@@ -1,6 +1,8 @@
 
-
-<h1 align="center">L.L.A.M</h1>
+<p align="center">
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://avatars.githubusercontent.com/u/92252339?s=200&v=4)" alt="Material Bread logo">
+</p>
+<h1 align="center">L.L.A.M : Microsoft AI hackathon</h1>
 =======================
 
 >  "Save crops from locust attacks"
